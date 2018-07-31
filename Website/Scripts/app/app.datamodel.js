@@ -18,7 +18,7 @@
         sessionStorage.setItem("accessToken", accessToken);
     };
 
-    self.getAccessToken = function () {
-        return sessionStorage.getItem("accessToken");
-    };
+    //self.getAccessToken = function () {
+    //    return sessionStorage.getItem("accessToken");
+    //};
 }
