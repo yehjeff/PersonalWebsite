@@ -1,6 +1,6 @@
 /*
-    Theme Name: Laura
-    Theme URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
+    Theme Name: jeff
+    Theme URL: https://bootstrapmade.com/jeff-free-creative-bootstrap-theme/
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
 */
@@ -48,9 +48,9 @@ Responsive media queries
 ***********************************/
 
 .header {
-  background: url('../img/bg-banner03.jpg') no-repeat fixed;
+  background: url('../img/banner.jpg') no-repeat fixed;
   background-size: cover;
-  min-height: 630px;
+  min-height: 700px;
   position: relative;
 }
 
@@ -100,8 +100,8 @@ Responsive media queries
 }
 
 .bg-color {
-  background-color: RGBA(0, 0, 0, 0.67);
-  min-height: 650px;
+  background-color: RGBA(0, 0, 0, 0.5);
+  min-height: 700px;
 }
 
 .navbar-border {}
@@ -145,7 +145,7 @@ Responsive media queries
 }
 
 #about {
-  background: url('../img/about-banner.jpg') no-repeat;
+  background: url('../img/about-banner.jpg') repeat;
   background-size: cover;
   margin-bottom: -3px;
 }
@@ -166,7 +166,8 @@ Responsive media queries
 }
 
 .about-text p {
-  color: #444;
+  color: black;
+  /*text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
 }
 
 .abt-list li {
@@ -225,7 +226,7 @@ blockquote {
   display: block;
 }
 
-.test-sec span.testimonials-name {
+.test-sec span.vfx-name {
   color: #62646f;
   font-weight: 600;
   margin: 16px 0 5px;
