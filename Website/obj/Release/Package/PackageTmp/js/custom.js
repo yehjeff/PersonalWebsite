@@ -46,7 +46,7 @@
     }
   });
 
-  // Testimonials Slider
+  // vfx Slider
   $('.bxslider').bxSlider({
     adaptiveHeight: true,
     mode: 'fade'
